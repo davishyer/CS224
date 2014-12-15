@@ -1,0 +1,1 @@
+"./random.obj" "./diceLib.obj" "./dice.obj" "./RBX430_lcd.obj" "./RBX430-1.obj" "../lnk_msp430f2274.cmd" -l"libc.a" 
